@@ -1,5 +1,6 @@
 # Hot TODOs
 
+* **Triage** - Things that are not absolute `v10` stop-ship should be moved to `v10-update` milestone. Triage criteria to be defined soon
 * Clean up open visual/code reviews - You can utilize some of below links
 * Get all open questions answered - You can utilize some of below links
 * Discuss what issues we can defer:
