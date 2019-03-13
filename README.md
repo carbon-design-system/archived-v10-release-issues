@@ -1,16 +1,19 @@
 # Hot TODOs
 
-* **Triage** - Things that are not absolute `v10` stop-ship should be moved to `v10-update` milestone. Triage criteria to be defined soon
+* **Triage**
+  * Things that are not absolute `v10` stop-ship should be moved to `v10-update` milestone. Current `v10` stop-ship criteria is:
+    * Ones designers think absolute `v10` show stopper
+    * Fixes that require breaking change of `v10` API (Note that we are striving to avoid breaking changes, though)
+  * Visual review comments in PR needs to be triaged as well. Action items on this is:
+    * Designers to determine what absolute no-go design review items of each PRs are
+    * Remainders of the design review items will be tracked as separate issues. Each of them will be triaged
+  * As we defer issues and fix issues, issues in `v10-rc1` milestone should be *zero* before we ship `v10`
 * Clean up open visual/code reviews - You can utilize some of below links
 * Get all open questions answered - You can utilize some of below links
-* Discuss what issues we can defer:
-  * A couple of criterias I can think of are:
-    * Ones designer thinks as `v10` show stoppers
-    * Ones that will be a breaking change (of `v10` API)
-  * (A specific example: Mobile device support)
-  * Deferred items should remove `v10-rc` milestone and add `post-v10` label
-* Assign `v10-rc` milestone to all new `v10` ship stopper issues/PRs
-* Add WIP label to all new draft PRs
+* Do the following when you create PRs:
+  * Assign `v10-rc` milestone to all new `v10` ship stopper issues/PRs
+  * Add WIP label to all new draft PRs
+  * Assigned designer for component should be set as the reviewer for any PRs that require design reviews (In addition to adding `visual review` label)
 * Talk! (Designers/devs talking each other is one of the biggest treasures in Carbon team! 😉)
 
 # Hot links
