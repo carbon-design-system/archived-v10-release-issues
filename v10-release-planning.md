@@ -15,7 +15,7 @@
 * All documentation (website) is deployed
 * All new and changed functionality (especially breaking changes) is included in migration and changelog documentation
 * Component definition of done exclusions
-  * IE11 and Firefox ESR bugs will not be prioritized prior to release. All subsequent bug fix efforts for these browsers will make best efforts not to introduce any breaking changes.
+  * IE11 is not a priority in this release, although exploratory testing is recommended to help identify major issues (that could require breaking changes)
   * IDL motion (because its replacing existing animations, and not a breaking change for when it's ready)
   * AVT level 1 is good enough
   
