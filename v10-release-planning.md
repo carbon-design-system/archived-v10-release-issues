@@ -22,7 +22,6 @@
 Questions:
 
 * Should we have consistent versioning (e.g. all upped to 10)? What's this mean for Vue and Angular?
-* How can we better define breaking changes (e.g. what CSS properties, markup)?
 
 ## Release Schedule
 
@@ -32,7 +31,11 @@ Questions:
 
 # Process
 
-[GH milestones, labels, process](https://github.com/carbon-design-system/private-issues/blob/master/README.md)
+**Release Backlog Gatekeeper: [Person]**
+
+TODO: how are we using GH milestones? [GH milestones, labels, process](https://github.com/carbon-design-system/private-issues/blob/master/README.md)
+
+TODO: release backlog should be "frozen" by **[date]**
 
 * Make sure GH issues to track:
   * Design: determine Sketch theme structure
