@@ -12,7 +12,8 @@
 * All packages released to NPM
 * All design assets published to respective places
 * All new and changed functionality (especially breaking changes) is included in migration and changelog documentation
-
+* Component definition of done exclusions
+  * Not all cross-browser (namely IE11) bugs need fixed prior to release as long as the expected fixes won't require breaking changes
 
 ## Release Schedule
 
