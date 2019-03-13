@@ -35,13 +35,13 @@ Questions:
 
 TODO: how are we using GH milestones? [GH milestones, labels, process](https://github.com/carbon-design-system/private-issues/blob/master/README.md)
 
-TODO: release backlog should be "frozen" by **[Date]** where after that date, backlog changes need approved by the gatekeeper PM.
+TODO: release backlog should be "frozen" by **[Date]** where after that date, backlog changes need approved by **[Person]**
 
-* Make sure GH issues to track:
+TODO: make sure GH issues to track
   * Design: determine Sketch theme structure
   * Design: what to expect with migration, symbol/library swapping, etc.
   * Design: getting started updates
-  * Dev: changes to component APIs, Sass, Sass API documentation, markup changes?
+  * Dev: changes to component APIs, Sass, Sass API documentation, markup changes
 
 # Component Definition of Done
 
