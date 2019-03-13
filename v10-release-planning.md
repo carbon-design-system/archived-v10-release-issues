@@ -30,5 +30,18 @@ TODO
 
 # Component Definition of Done
 
-* Passes visual review
-* TODO
+* Design
+  * Follows IBM Design Language
+  * Considers accessibility inclusiveness
+  * Validated by real users
+  * Works with realistic data
+  * Works on supported platforms/resolutions
+  * Includes empty and loading states
+  * Includes usage guidelines
+* Development
+  * Has accompanying design
+  * Passes visual review
+  * Passes acceptance criteria (e.g. usage guidelines)
+  * TODO browsers
+  * TODO accessibility
+  * TODO test coverage
