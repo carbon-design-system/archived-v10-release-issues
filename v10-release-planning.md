@@ -15,7 +15,7 @@
 * All documentation (website) is deployed
 * All new and changed functionality (especially breaking changes) is included in migration and changelog documentation
 * Component definition of done exclusions
-  * Not all cross-browser (namely IE11, Firefix ESR) bugs need fixed prior to release as long as the expected fixes won't require breaking changes
+  * IE11 and Firefox ESR bugs will not be prioritized prior to release. All subsequent bug fix efforts for these browsers will make best efforts not to introduce any breaking changes.
   * IDL motion (because its replacing existing animations, and not a breaking change for when it's ready)
   * AVT level 1 is good enough
   
