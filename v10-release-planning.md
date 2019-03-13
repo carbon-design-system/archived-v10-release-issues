@@ -31,11 +31,11 @@ Questions:
 
 # Process
 
-**Release Backlog Gatekeeper: [Person]**
+**Release Backlog Gatekeeper / PM: [Person]**
 
 TODO: how are we using GH milestones? [GH milestones, labels, process](https://github.com/carbon-design-system/private-issues/blob/master/README.md)
 
-TODO: release backlog should be "frozen" by **[date]**
+TODO: release backlog should be "frozen" by **[Date]** where after that date, backlog changes need approved by the gatekeeper PM.
 
 * Make sure GH issues to track:
   * Design: determine Sketch theme structure
