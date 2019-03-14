@@ -19,6 +19,10 @@
 
 # Hot links
 
+## `v10` release planning
+
+[`v10-release-planning.md`](./v10-release-planning.md)
+
 ## `v10` ship stopper issues
 
 * https://github.com/IBM/carbon-components/issues?q=is%3Aopen+is%3Aissue+milestone%3Av10.0-rc1
