@@ -2,7 +2,8 @@
 
 * **Triage**
   * Things that are not absolute `v10` stop-ship should be moved to `v10-update` milestone. Current `v10` stop-ship criteria is:
-    * Ones designers think absolute `v10` show stopper
+    * Ones designers think truly absolute `v10` show stopper
+    * Substantial regression from `v9`
     * Fixes that require breaking change of `v10` API (Note that we are striving to avoid breaking changes, though)
   * Visual review comments in PR needs to be triaged as well. Action items on this is:
     * Designers to determine what absolute no-go design review items of each PRs are
