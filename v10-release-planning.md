@@ -15,7 +15,7 @@
 * All documentation (website) is deployed
 * All new and changed functionality (especially breaking changes) is included in migration and changelog documentation
 * Component definition of done exclusions
-  * IE11 is not a priority in this release, although exploratory testing is recommended to help identify major issues (that could require breaking changes)
+  * IE11 and Mobile Safari is not a priority in this release, although exploratory testing is recommended to help identify major issues (that could require breaking changes)
   * IDL motion (because its replacing existing animations, and not a breaking change for when it's ready)
   * AVT level 1 is good enough
   
@@ -25,17 +25,13 @@ Questions:
 
 ## Release Schedule
 
+Use ZenHub to view all GH issues and PRs for the [v10.0-rc1 milestone](https://github.com/carbon-design-system/issue-tracking#workspaces/carbon-design-system-593830641344b813db10934d/boards?milestones=v10.0-rc1%23&filterLogic=any&repos=85987501,84835535,92527058,86360855,103418444,85728567,144656871,148382570,145154713,148800113,113475983,166278929) across all repositories. `v10-update` milestone is for stories that are high priority but are not in scope for v10.0-rc1.
+
+**3/15/19** - v10.0-rc1 backlog freeze, subsequent changes need approval by **Robin Cannon**
+
 **v10 RC1 [Date]** - code freeze 3 days before GA (excludes final documentation changes that had been missed)
 
 **v10 [Date]** - we generally available!
-
-# Process
-
-**Release Backlog Gatekeeper / PM: [Person]**
-
-TODO: how are we using GH milestones? [GH milestones, labels, process](https://github.com/carbon-design-system/private-issues/blob/master/README.md)
-
-TODO: release backlog should be "frozen" by **[Date]** where after that date, backlog changes need approved by **[Person]**
 
 TODO: make sure GH issues to track
   * Design: determine Sketch theme structure
@@ -64,4 +60,5 @@ TODO: make sure GH issues to track
     * Safari latest
     * Microsoft Edge latest
     * IE11
+    * Mobile Safari
   * 80% test coverage
