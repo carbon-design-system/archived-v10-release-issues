@@ -33,12 +33,6 @@ Use ZenHub to view all GH issues and PRs for the [v10.0-rc1 milestone](https://g
 
 **v10 [Date]** - we generally available!
 
-TODO: make sure GH issues to track
-  * Design: determine Sketch theme structure
-  * Design: what to expect with migration, symbol/library swapping, etc.
-  * Design: getting started updates
-  * Dev: changes to component APIs, Sass, Sass API documentation, markup changes
-
 # Component Definition of Done
 
 * Design
