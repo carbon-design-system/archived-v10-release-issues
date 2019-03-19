@@ -17,7 +17,8 @@
 * Component definition of done exclusions
   * IE11 and Mobile Safari is not a priority in this release, although exploratory testing is recommended to help identify major issues (that could require breaking changes)
   * IDL motion (because its replacing existing animations, and not a breaking change for when it's ready)
-  * AVT level 1 is good enough
+  * Themes g10, g90, g100 (will be just CSS changes)
+  * AVT level 2 and 3
   
 Questions:
 
@@ -48,6 +49,11 @@ Use ZenHub to view all GH issues and PRs for the [v10.0-rc1 milestone](https://g
   * Passes visual review
   * Passes acceptance criteria (e.g. usage guidelines)
   * Passes AVT level 3 for accessibility
+  * Works in themes
+    * White (default)
+    * G10
+    * G90
+    * G100
   * Works in browsers
     * Chrome latest
     * Firefox latest
