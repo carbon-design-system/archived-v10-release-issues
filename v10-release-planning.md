@@ -4,7 +4,7 @@
 
 1. All Carbon design and development assets (getting started, guidelines, components, patterns) reflect the new IBM Design Language (IDL)
 1. Quality of release deliverables should at minimum match v9 release deliverables
-1. Release deliverables should primarily focus on v9 feature parity (to mitigate the risk of new features degregating release quality)
+1. Release deliverables should primarily focus on v9 feature parity (to mitigate the risk of new features degrading release quality)
 
 ## Release Definition of Done
 
