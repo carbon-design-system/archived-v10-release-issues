@@ -3,8 +3,8 @@
 ## Release Goals
 
 1. All Carbon design and development assets (getting started, guidelines, components, patterns) reflect the new IBM Design Language (IDL)
-1. Quality of release deliverables should at minimum match v9 release deliverables
-1. Release deliverables should primarily focus on v9 feature parity (to mitigate the risk of new features degrading release quality)
+1. Quality: Release deliverables should at minimum match the quality of v9 release deliverables
+1. Features: Release deliverables should primarily focus on v9 feature parity (to mitigate the risk of new fixes/features degrading release quality)
 
 ## Release Definition of Done
 
@@ -17,8 +17,8 @@
 * All new and changed functionality (especially breaking changes) is included in migration and changelog documentation
 * Component definition of done exclusions
   * IE11 and Mobile Safari is not a priority in this release, although exploratory testing is recommended to help identify major issues (that could require breaking changes)
-  * IDL motion (because its replacing existing animations, and not a breaking change for when it's ready)
-  * Themes g10, g90, g100 (will be just CSS changes)
+  * IDL motion (because its replacing existing animations and should not be a breaking change)
+  * Themes g10, g90, g100 (because changes should be just CSS and non-breaking)
   * AVT level 2 and 3
   
 Questions:
@@ -31,9 +31,11 @@ Use ZenHub to view all GH issues and PRs for the [v10.0-rc1 milestone](https://g
 
 **3/15/19** - v10.0-rc1 backlog freeze, subsequent changes need approval by **Robin Cannon**
 
-**v10 RC1 [Date]** - code freeze 3 days before GA (excludes final documentation changes that had been missed)
+**3/22/19** - component code freeze
 
-**v10 [Date]** - we generally available!
+**3/26 or 3/27** - dark launch (i.e. in production)
+
+**3/29/19** - publicly announced as live
 
 # Component Definition of Done
 
